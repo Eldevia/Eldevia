@@ -3,7 +3,7 @@
 Building production AI platforms, multi-tenant SaaS infrastructure, and high-craft interfaces from **Vilnius, Lithuania (UTC+2)**.
 
 - **Stack:** TypeScript · Bun (`Bun.serve`, native `Bun.sql` / PostgreSQL 17) · React 19 · TanStack Start · React Router v7 · Tailwind CSS v4 · Figma (Apple HIG)
-- **Applied AI & Agent Systems:** Multi-Model Adversarial PR Auditing (`Gemini 4 Argon` × `Claude Opus` at `high`/`xhigh` effort) · 10+ Concurrent Subagent Orchestration · Google GenAI (`Gemini Live` WebSockets, `Gemini 3.8 Flash` structured evals, `Gemini Embeddings` RAG) · Anthropic `Claude API` (human-in-the-loop approval gates) · Google Cloud DLP
+- **Applied AI & Agent Systems:** Multi-Model Adversarial PR Auditing (`Gemini 4 Argon` × `Claude Opus 5.5` × `Fable` at `high`/`xhigh` effort) · 10+ Concurrent Subagent Orchestration · Google GenAI (`Gemini Live` WebSockets, `Gemini 3.8 Flash` structured evals, `Gemini Embeddings` RAG) · Anthropic `Claude API` (human-in-the-loop approval gates) · Google Cloud DLP
 - **Infrastructure:** Self-managed **ARM64 (`aarch64`)** & **x86_64** Linux fleets · Kamal blue-green zero-downtime deployments · Docker Compose TLS bridge isolation
 
 ---
