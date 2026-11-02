@@ -29,4 +29,4 @@ Building production AI platforms, multi-tenant SaaS infrastructure, and high-cra
 - **[`tw-squircle`](https://github.com/Eldevia/tw-squircle)** — Pure-CSS Apple HIG squircle utility plugin for Tailwind CSS v4 (zero Houdini overhead).
 - **[`remix-authjs`](https://github.com/Eldevia/remix-authjs)** — Auth.js integration for Remix / React Router applications (★ 7).
 
-📫 **Contact:** [hello@eldevia.com](mailto:hello@eldevia.com) · [eldevia.com](https://eldevia.com)
+📫 **Contact:** [elvinas@eldevia.com](mailto:elvinas@eldevia.com) · [eldevia.com](https://eldevia.com)
