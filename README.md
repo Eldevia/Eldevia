@@ -26,6 +26,7 @@ Building production AI platforms, multi-tenant SaaS infrastructure, and high-cra
 ---
 
 ### Open-Source & Public Packages
+- **[`ccautopsy`](https://github.com/Eldevia/ccautopsy)** — Claude Code's prompt-cache miss autopsy.
 - **[`tw-squircle`](https://github.com/Eldevia/tw-squircle)** — Pure-CSS Apple HIG squircle utility plugin for Tailwind CSS v4 (zero Houdini overhead).
 - **[`remix-authjs`](https://github.com/Eldevia/remix-authjs)** — Auth.js integration for Remix / React Router applications (★ 7).
 
